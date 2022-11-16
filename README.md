@@ -2,7 +2,7 @@
 
 M.Y. Joshi<sup>1</sup>, D. Amaripadath<sup>2</sup>, A. Machard<sup>3,4</sup>, and S. Attia<sup>1</sup>
 
-<sup>1</sup>Local Environment Management and Analysis (LEMA), Urban and Environmental Engineering Department, University of Liège, 4000 Liège, Belgium
+<sup>1</sup>Local Environment Management and Analysis (LEMA), Urban and Environmental Engineering Department, University of Liège, 4000 Liège, Belgium. 
 <sup>2</sup>Sustainable Building Design Lab, Department of UEE, Faculty of Applied Sciences, University of Liege, 4000 Liege, Belgium          
 <sup>3</sup>Centre Scientifique et Technique du Batiment (CSTB), Département Energie et Environnement, 24 Rue Joseph Fourier, 38400 Saint-Martin-d'Hères, France                          
 <sup>4</sup>La Rochelle Université, Laboratoire des Sciences de l'Ingénieur pour l'Environnement (LASIE, UMR CNRMS 7356), 23 Avenue Albert Einstein, 17000 La Rochelle, France
